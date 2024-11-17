@@ -1,3 +1,4 @@
+# Ethan I changed the key to the right one, this should work for you now, we have 10k requests/month now
 import requests
 import mysql.connector
 from mysql.connector import Error
@@ -5,7 +6,7 @@ from mysql.connector import Error
 # Define the API endpoint and headers
 url = "https://grocery-pricing-api.p.rapidapi.com/searchGrocery"
 headers = {
-    "x-rapidapi-key": "68ecbee41cmshf71620352dc9301p1f8269jsn99cd24f31e27",  # Replace with your actual RapidAPI key
+    "x-rapidapi-key": "5181258988msh2304c15205daf50p138250jsna63a8367bc9b",  # Replace with your actual RapidAPI key
     "x-rapidapi-host": "grocery-pricing-api.p.rapidapi.com"
 }
 
