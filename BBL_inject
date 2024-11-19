@@ -1,1 +1,14 @@
 
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "        __  " << endl;
+    cout << "       (oo) " << endl;
+    cout << "  /======\\/ " << endl;
+    cout << " / |  {}  | " << endl;
+    cout << "*  ||----|| " << endl;
+    cout << "   ^^    ^^ " << endl;
+    cout << "Minecraft Sheep" << endl;
+    return 0;
+}
